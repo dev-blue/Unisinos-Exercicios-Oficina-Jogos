@@ -9,6 +9,8 @@
     <sprite>sprites\sprIslad01</sprite>
     <sprite>sprites\sprIsland02</sprite>
     <sprite>sprites\sprIsland03</sprite>
+    <sprite>sprites\sprAviao</sprite>
+    <sprite>sprites\sprTiro</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bgWater</background>
@@ -18,6 +20,8 @@
     <object>objects\objIsland01</object>
     <object>objects\objIsland02</object>
     <object>objects\objIsland03</object>
+    <object>objects\objJogador</object>
+    <object>objects\objTiro</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
