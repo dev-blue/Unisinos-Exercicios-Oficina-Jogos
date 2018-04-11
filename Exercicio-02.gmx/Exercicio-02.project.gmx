@@ -4,11 +4,18 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\sndDoor</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprJogador</sprite>
     <sprite>sprites\sprBandeira</sprite>
     <sprite>sprites\sprParede</sprite>
+    <sprite>sprites\sprDiamond</sprite>
+    <sprite>sprites\sprDoor</sprite>
+    <sprite>sprites\sprWallVertical</sprite>
+    <sprite>sprites\sprWallHorizontal</sprite>
+    <sprite>sprites\sprWallCorner</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -16,6 +23,11 @@
     <object>objects\objParede</object>
     <object>objects\objJogador</object>
     <object>objects\objBandeira</object>
+    <object>objects\objDiamond</object>
+    <object>objects\objDoor</object>
+    <object>objects\objWallVertical</object>
+    <object>objects\objWallHorizontal</object>
+    <object>objects\objWallCorner</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
