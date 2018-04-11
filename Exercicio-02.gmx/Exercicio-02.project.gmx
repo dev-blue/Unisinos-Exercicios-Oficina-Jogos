@@ -7,6 +7,7 @@
   <sounds name="sound">
     <sound>sound\sndDoor</sound>
     <sound>sound\sndGoal</sound>
+    <sound>sound\sndDead</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprJogador</sprite>
@@ -17,8 +18,13 @@
     <sprite>sprites\sprWallVertical</sprite>
     <sprite>sprites\sprWallHorizontal</sprite>
     <sprite>sprites\sprWallCorner</sprite>
+    <sprite>sprites\sprMonster01</sprite>
+    <sprite>sprites\sprMonster02</sprite>
+    <sprite>sprites\sprLife</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background</background>
+  </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
     <font>fonts\font1</font>
@@ -33,8 +39,12 @@
     <object>objects\objWallHorizontal</object>
     <object>objects\objWallCorner</object>
     <object>objects\objScore</object>
+    <object>objects\objIniciar</object>
+    <object>objects\objMonster01</object>
+    <object>objects\objMonster02</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Menu</room>
     <room>rooms\room0</room>
     <room>rooms\room1</room>
   </rooms>
