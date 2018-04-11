@@ -6,6 +6,7 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\sndDoor</sound>
+    <sound>sound\sndGoal</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprJogador</sprite>
@@ -19,6 +20,9 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\font1</font>
+  </fonts>
   <objects name="objects">
     <object>objects\objParede</object>
     <object>objects\objJogador</object>
@@ -28,6 +32,7 @@
     <object>objects\objWallVertical</object>
     <object>objects\objWallHorizontal</object>
     <object>objects\objWallCorner</object>
+    <object>objects\objScore</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
