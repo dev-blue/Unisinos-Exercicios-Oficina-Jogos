@@ -47,11 +47,35 @@
             }
         },
         {
+            "Key": "1d916677-bf5f-4b4c-963d-eef6932ff0e5",
+            "Value": {
+                "id": "c30c9ae8-0c9a-40c4-b2c1-6acec26c024b",
+                "resourcePath": "sprites\\sprParede\\sprParede.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1f5316a3-16c5-4410-84bc-4c9416af228f",
             "Value": {
                 "id": "39b59245-82a3-4192-b953-18803ca7837e",
                 "resourcePath": "views\\1f5316a3-16c5-4410-84bc-4c9416af228f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3065641f-a4b8-4a85-b0bd-2f9fe0f3f32d",
+            "Value": {
+                "id": "78eb6fcd-2ceb-4d30-a98b-06bde8d651f6",
+                "resourcePath": "sprites\\sprJogador\\sprJogador.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3b400e08-c2c7-49fc-8781-cfc51a574bfe",
+            "Value": {
+                "id": "e0d88122-ed17-4a6a-9c76-11dc7e062c6a",
+                "resourcePath": "objects\\objJogador\\objJogador.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -79,6 +103,14 @@
             }
         },
         {
+            "Key": "60468511-65a6-474f-b89a-b16291001579",
+            "Value": {
+                "id": "051e6a60-a5aa-49c4-bde3-7b555ac61b8d",
+                "resourcePath": "sprites\\sprBandeira\\sprBandeira.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7140881d-7f6e-452a-b53d-86e197025c73",
             "Value": {
                 "id": "318f6ccf-c706-45ae-96ab-7e19871628a6",
@@ -100,6 +132,14 @@
                 "id": "b6defa3a-e49c-4ee7-8214-ab97bb1a1f11",
                 "resourcePath": "views\\b6b01d44-cf28-4b84-a032-8b927e6c8cde.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b6f9981a-9798-41df-88b3-5738e11551f7",
+            "Value": {
+                "id": "ef98edd3-d9c9-4384-bbae-446473178734",
+                "resourcePath": "objects\\objParede\\objParede.yy",
+                "resourceType": "GMObject"
             }
         },
         {
