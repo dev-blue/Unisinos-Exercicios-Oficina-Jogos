@@ -1,19 +1,10 @@
 {
-    "id": "b6c6fa8e-d166-4188-b7b2-2198f168b536",
+    "id": "c574349e-260a-4224-ab79-eb9e2686576c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objDoor",
+    "name": "objWallVertical",
     "eventList": [
-        {
-            "id": "7dd2dd19-3601-4992-a21e-2bbec78d43e2",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "b6c6fa8e-d166-4188-b7b2-2198f168b536"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": true,
-    "spriteId": "bea7eda7-c86c-4d96-a2a6-39e01587b95e",
+    "spriteId": "e5a5a0dd-1071-4a06-8115-1411ac443259",
     "visible": true
 }

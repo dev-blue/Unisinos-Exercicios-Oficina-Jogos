@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "09e45bd7-ea62-4e97-9830-89c75eeb6554",
+            "Value": {
+                "id": "15e51150-3e68-429c-beac-b8eaae75c55d",
+                "resourcePath": "sprites\\sprWallCorner\\sprWallCorner.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0ac8e965-b11a-4fca-b3e5-2a936aee25d7",
             "Value": {
                 "id": "8a32c83b-82f8-43fa-a459-f59192612fa9",
@@ -44,6 +52,14 @@
                 "id": "39796deb-1e70-4ef2-98b4-6cc8525182fb",
                 "resourcePath": "views\\0c82f159-e3aa-4082-a333-3c2060d10c55.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "139b879c-3aa6-4e03-a829-efcd4204c910",
+            "Value": {
+                "id": "04bdec4f-4919-4ab9-afcf-c921a6fe397b",
+                "resourcePath": "objects\\objWallHorizontal\\objWallHorizontal.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -68,6 +84,14 @@
                 "id": "78eb6fcd-2ceb-4d30-a98b-06bde8d651f6",
                 "resourcePath": "sprites\\sprJogador\\sprJogador.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3822e995-d36e-4dc8-b2c0-db55a8486f83",
+            "Value": {
+                "id": "ce2dde73-7af9-4ef5-a8b6-9171821be69a",
+                "resourcePath": "objects\\objWallCorner\\objWallCorner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -132,6 +156,14 @@
                 "id": "318f6ccf-c706-45ae-96ab-7e19871628a6",
                 "resourcePath": "views\\7140881d-7f6e-452a-b53d-86e197025c73.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7c843cfb-1df1-48a4-9336-dd27fe092ad0",
+            "Value": {
+                "id": "6830e9e9-61e0-4b63-8f3e-1589dc5e41f5",
+                "resourcePath": "sprites\\sprWallHorizontal\\sprWallHorizontal.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -207,6 +239,14 @@
             }
         },
         {
+            "Key": "c574349e-260a-4224-ab79-eb9e2686576c",
+            "Value": {
+                "id": "025ba20c-3b44-4cc2-b7d7-154e3adc8373",
+                "resourcePath": "objects\\objWallVertical\\objWallVertical.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c85ee349-3a88-428a-831a-f3caf0024c70",
             "Value": {
                 "id": "569e99d7-240c-4bb0-80ee-57273f94e36c",
@@ -220,6 +260,14 @@
                 "id": "12d5abfb-dca2-487e-b61c-f6683ab9e66a",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "df76c3d9-b160-4f6f-aa25-b151680b2ed1",
+            "Value": {
+                "id": "5d14aa0e-c79d-49e1-b01a-a4b24eed089a",
+                "resourcePath": "sounds\\sndDoor\\sndDoor.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -244,6 +292,14 @@
                 "id": "0e716962-ab8c-406e-9047-4ab46b4283b4",
                 "resourcePath": "rooms\\room2\\room2.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e5a5a0dd-1071-4a06-8115-1411ac443259",
+            "Value": {
+                "id": "78d41dbf-8630-4eb0-8745-a116fab0a448",
+                "resourcePath": "sprites\\sprWallVertical\\sprWallVertical.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

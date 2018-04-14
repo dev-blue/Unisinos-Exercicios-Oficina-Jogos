@@ -1,19 +1,10 @@
 {
-    "id": "b6c6fa8e-d166-4188-b7b2-2198f168b536",
+    "id": "3822e995-d36e-4dc8-b2c0-db55a8486f83",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "objDoor",
+    "name": "objWallCorner",
     "eventList": [
-        {
-            "id": "7dd2dd19-3601-4992-a21e-2bbec78d43e2",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "b6c6fa8e-d166-4188-b7b2-2198f168b536"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": true,
-    "spriteId": "bea7eda7-c86c-4d96-a2a6-39e01587b95e",
+    "spriteId": "09e45bd7-ea62-4e97-9830-89c75eeb6554",
     "visible": true
 }
