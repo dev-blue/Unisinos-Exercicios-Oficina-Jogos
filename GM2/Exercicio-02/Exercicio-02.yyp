@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1c8d4680-62ac-4f38-8c27-f93fa2fdaa25",
+            "Value": {
+                "id": "5fff80ac-9240-44eb-bf43-a8b5baca0b1f",
+                "resourcePath": "objects\\objGameOver\\objGameOver.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1d916677-bf5f-4b4c-963d-eef6932ff0e5",
             "Value": {
                 "id": "c30c9ae8-0c9a-40c4-b2c1-6acec26c024b",
@@ -119,11 +127,27 @@
             }
         },
         {
+            "Key": "3e0116a6-1337-4088-953c-0f0d2caba6bc",
+            "Value": {
+                "id": "e45c45ab-9a32-463b-9768-36320111e21d",
+                "resourcePath": "sprites\\sprAbertura\\sprAbertura.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "441e9a55-c2d2-49da-9782-19e57efeade3",
             "Value": {
                 "id": "4bc59d15-9cbc-4278-941e-825504a263a2",
                 "resourcePath": "views\\441e9a55-c2d2-49da-9782-19e57efeade3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "49794246-cd64-4a24-b207-1137f65a36b6",
+            "Value": {
+                "id": "43c3e2ac-e322-449c-8f5a-c3bdd7409010",
+                "resourcePath": "sprites\\sprGameOver\\sprGameOver.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -167,10 +191,34 @@
             }
         },
         {
+            "Key": "83847b39-6f8e-444e-a548-1f4f445a406e",
+            "Value": {
+                "id": "6a0d8bf1-6a21-41da-b31a-e9586f3a8d8e",
+                "resourcePath": "objects\\objGerenciador\\objGerenciador.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9bf1f4b5-c2cd-460a-8a2b-2aff704b5b95",
             "Value": {
                 "id": "4f082c79-b486-49f5-bd52-dd311a7d05fe",
                 "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9d198685-f04d-4b1c-9498-005e35056a48",
+            "Value": {
+                "id": "6dd5d288-6071-4aa4-be6a-48f534fac307",
+                "resourcePath": "rooms\\roomEndGame\\roomEndGame.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9dc12dad-decc-49d2-a67e-e61bd643d944",
+            "Value": {
+                "id": "57b1123e-3929-429b-898b-859d43a255ed",
+                "resourcePath": "rooms\\roomAbertura\\roomAbertura.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -196,6 +244,22 @@
                 "id": "7a8a0f7e-e687-4355-baf7-26dc50465ecf",
                 "resourcePath": "views\\ab7320a1-bbc2-404e-9f72-878aa92884b2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ac85930e-b8b1-4a83-a805-62081d3fc618",
+            "Value": {
+                "id": "eb319d71-5fff-40aa-9fe6-63d995253c70",
+                "resourcePath": "fonts\\font0\\font0.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "adf9b480-6481-4de5-b8c7-bcebf53e6b88",
+            "Value": {
+                "id": "68878eec-1bfb-4a15-b336-891cf2c48729",
+                "resourcePath": "sounds\\sndGoal\\sndGoal.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -340,6 +404,14 @@
                 "id": "73b8f30a-fa1a-47e8-839b-db45cf7b9215",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f802553a-1098-4ff3-bf6b-6c505d64a538",
+            "Value": {
+                "id": "af6cb290-0e64-4279-a308-5d77074db791",
+                "resourcePath": "objects\\objInicio\\objInicio.yy",
+                "resourceType": "GMObject"
             }
         },
         {
