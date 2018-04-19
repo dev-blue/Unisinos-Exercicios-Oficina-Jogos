@@ -1,3 +1,12 @@
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 17A51D6C
+/// @DnDArgument : "imageind" "3"
+/// @DnDArgument : "spriteind" "sprJogador"
+/// @DnDSaveInfo : "spriteind" "3065641f-a4b8-4a85-b0bd-2f9fe0f3f32d"
+sprite_index = sprJogador;
+image_index = 3;
+
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
 /// @DnDHash : 44EB03DC

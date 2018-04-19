@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "2d2a339c-9f30-473e-bd13-3d61e7438f9b",
+            "Value": {
+                "id": "c52090b5-a420-4fd5-a24d-abf0458d9b83",
+                "resourcePath": "sprites\\sprTrigger\\sprTrigger.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3065641f-a4b8-4a85-b0bd-2f9fe0f3f32d",
             "Value": {
                 "id": "78eb6fcd-2ceb-4d30-a98b-06bde8d651f6",
@@ -196,6 +204,14 @@
                 "id": "051e6a60-a5aa-49c4-bde3-7b555ac61b8d",
                 "resourcePath": "sprites\\sprBandeira\\sprBandeira.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "68177817-b2eb-46a6-a0f7-43a6510ea7a1",
+            "Value": {
+                "id": "c7759a27-ea7e-4ad4-afb9-8f94b6eb6aa2",
+                "resourcePath": "objects\\objTrigger\\objTrigger.yy",
+                "resourceType": "GMObject"
             }
         },
         {
