@@ -28,3 +28,11 @@ with(other) instance_destroy();
 /// @DnDArgument : "y" "-16"
 x = random(room_width);
 y = -16;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 70A09022
+/// @DnDArgument : "value" "5"
+/// @DnDArgument : "value_relative" "1"
+/// @DnDArgument : "var" "pontos"
+global.pontos += 5;
