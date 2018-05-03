@@ -10,12 +10,12 @@ if(atirar == 1)
 	/// @DnDHash : 4FA2A7EC
 	/// @DnDParent : 3DD0C6CE
 	/// @DnDArgument : "xpos_relative" "1"
-	/// @DnDArgument : "ypos" "-16"
+	/// @DnDArgument : "ypos" "-24"
 	/// @DnDArgument : "ypos_relative" "1"
 	/// @DnDArgument : "objectid" "objBullet"
 	/// @DnDArgument : "layer" ""Instances_1""
 	/// @DnDSaveInfo : "objectid" "da8f87f2-f258-4703-8c48-2b0456cb3115"
-	instance_create_layer(x + 0, y + -16, "Instances_1", objBullet);
+	instance_create_layer(x + 0, y + -24, "Instances_1", objBullet);
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1

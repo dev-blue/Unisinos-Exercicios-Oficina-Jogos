@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "00ee5146-36f2-4456-85a2-334ebc6af14d",
+            "Value": {
+                "id": "201a19d2-bcc9-4ee1-8585-80cb4dea41d3",
+                "resourcePath": "rooms\\Hell\\Hell.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "03434a8e-bdb0-4110-8ec3-a74aad6c6bcf",
             "Value": {
                 "id": "04c627aa-7bab-427c-b2f0-430779069ac7",
@@ -44,6 +52,14 @@
                 "id": "4b85e24a-4370-4144-89fd-f1bcf2f337e9",
                 "resourcePath": "objects\\objExplosion\\objExplosion.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "09b6338d-f826-43c7-8fa9-eb498deb8383",
+            "Value": {
+                "id": "b44ad3b2-e7f4-4658-ad56-444f5494a311",
+                "resourcePath": "rooms\\Ice\\Ice.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -282,7 +298,7 @@
             "Key": "d5edce68-c155-45fe-9cb4-5819930e1867",
             "Value": {
                 "id": "7bdcf02a-9f82-4b71-bc51-c63093fb5fc9",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\Ocean\\Ocean.yy",
                 "resourceType": "GMRoom"
             }
         },
