@@ -28,12 +28,4 @@ if (!(l004B44B7_0 > 0))
 	/// @DnDArgument : "y_relative" "1"
 	x += 4;
 	y += 0;
-
-	/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
-	/// @DnDVersion : 1
-	/// @DnDHash : 6622B5CC
-	/// @DnDParent : 004B44B7
-	/// @DnDArgument : "angle" "-5"
-	/// @DnDArgument : "angle_relative" "1"
-	image_angle += -5;
 }
