@@ -39,11 +39,27 @@
             }
         },
         {
+            "Key": "0d6365e8-a86e-4092-8a07-28259a996098",
+            "Value": {
+                "id": "074b29d1-e301-470e-88b0-cc646b6e8189",
+                "resourcePath": "objects\\objMonster\\objMonster.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "190ce4ec-1104-477a-ae09-b370e4222559",
             "Value": {
                 "id": "cfad0690-728e-47ae-b47e-71000b9aadad",
                 "resourcePath": "views\\190ce4ec-1104-477a-ae09-b370e4222559.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1c605a30-b533-411b-8c4e-026616242f10",
+            "Value": {
+                "id": "d5384897-4f38-40a3-bdcc-4ab618fa1965",
+                "resourcePath": "sprites\\sprMonster02\\sprMonster02.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -135,11 +151,35 @@
             }
         },
         {
+            "Key": "608fedc8-c377-4170-8adb-f3968284cb78",
+            "Value": {
+                "id": "6e167ec4-b6fe-4cfd-9e3f-56dacc49f1f2",
+                "resourcePath": "sprites\\sprMonster01\\sprMonster01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "63813104-237d-4fa2-a92c-b1866de37afe",
+            "Value": {
+                "id": "38e7b03b-6133-44e4-8f7e-74d82a313bb4",
+                "resourcePath": "objects\\objMarker\\objMarker.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7de6f8bd-fae0-447e-9b8a-8aec4600fbfe",
             "Value": {
                 "id": "0a50565a-2eeb-4b04-8622-36411521d6b0",
                 "resourcePath": "objects\\objHero\\objHero.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "83705cd8-ee40-4127-a31f-5639bb138533",
+            "Value": {
+                "id": "c2456994-710e-4e8c-8eaa-c73d9117dc8b",
+                "resourcePath": "sprites\\sprMarker\\sprMarker.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
