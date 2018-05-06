@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "8603b3d9-dec9-4e89-9b69-2197ec1ef0f5",
+            "Value": {
+                "id": "3b7b02e6-fa47-4f82-b2ee-97e09c924407",
+                "resourcePath": "sprites\\sprDeadMarker\\sprDeadMarker.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8a1c990b-1912-406f-9148-ec2d14caeea5",
             "Value": {
                 "id": "91ba9701-c96b-4184-bbda-35deff4f68d0",
@@ -228,6 +236,14 @@
                 "id": "77378024-ed87-41af-8e38-b43c3e8f96ba",
                 "resourcePath": "views\\9195a65c-d8bf-4ac2-b622-65a58c1ee568.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9cc04e27-5451-42a7-bf08-1d8d1c7b114b",
+            "Value": {
+                "id": "1606716d-8170-4481-92e8-cfd09bf663a6",
+                "resourcePath": "objects\\objDeadMarker\\objDeadMarker.yy",
+                "resourceType": "GMObject"
             }
         },
         {
