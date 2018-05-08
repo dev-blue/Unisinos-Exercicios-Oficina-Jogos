@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "6c93278f-1aa4-4b39-94d9-ecbb130170f2",
+            "Value": {
+                "id": "11aec213-9a70-45dc-82ee-18ab7a07a58e",
+                "resourcePath": "objects\\objEscada\\objEscada.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7de6f8bd-fae0-447e-9b8a-8aec4600fbfe",
             "Value": {
                 "id": "0a50565a-2eeb-4b04-8622-36411521d6b0",
@@ -247,6 +255,14 @@
             }
         },
         {
+            "Key": "9d0b7af7-91e2-4c38-86b6-8d55404a57d1",
+            "Value": {
+                "id": "8d73c580-bda8-44e4-b6cc-dc1680109b05",
+                "resourcePath": "sprites\\sprEscada\\sprEscada.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a55fd677-6f32-4a43-87ab-c6e1b8cb6563",
             "Value": {
                 "id": "d8de5f59-008b-40fa-a24a-e20164b753e6",
@@ -308,6 +324,14 @@
                 "id": "a79e5a46-4a57-4177-896a-9ddef503d0b4",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d6998e86-feb7-4022-8b2c-599c8aa8a000",
+            "Value": {
+                "id": "167d2cbb-87f4-4308-a1e1-ed241e6902b2",
+                "resourcePath": "sprites\\sprHeroClimbing\\sprHeroClimbing.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
